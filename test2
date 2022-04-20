@@ -1,0 +1,1 @@
+{new x 7; print get x}

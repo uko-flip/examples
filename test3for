@@ -1,0 +1,1 @@
+for new inn 1 , [get inn] > 0 , new inn [in] do print 42
